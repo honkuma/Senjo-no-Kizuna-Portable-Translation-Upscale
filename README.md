@@ -8,7 +8,7 @@ English translation texture project with few upscale, Due some **limitation** (a
 _**Disclaimer**_
 This project used **MLT/AI** (Gemini model 3) as based most of texts translation, be expect some misspelling and wrong context.
 
-(Only leftover most untranslated is mission name, Might also there few online mode texts untranslated which I might missed but planned update later which planned update later if peoples are really request for it.)
+(Only leftover most untranslated is mission name, Might also there few online mode texts untranslated which I might missed, Which planned update later if peoples are really request for it.)
 
 [**Download the files**]
 <img width="497" height="417" alt="image" src="https://github.com/user-attachments/assets/8fb3ae30-a444-4f08-8645-0d2310fa5a00" />
