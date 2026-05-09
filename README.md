@@ -1,5 +1,8 @@
 # Senjo-no-Kizuna-Portable-Translation-Upscale
 **Mobile Suit Gundam: Bonds of the Battlefield Portable**(Kidō Senshi Gundam: Senjō no Kizuna Portable) 
+
+<img width="952" height="537" alt="image" src="https://github.com/user-attachments/assets/7d35ed7d-754a-4ff1-a3df-b2bef651d027" />
+
 English translation texture project with few upscale, Due some **limitation** (and my own skill of editing) of game text display would be **partials only**, Only most UIs elements are translated.
 
 _**Disclaimer**_
