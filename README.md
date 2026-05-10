@@ -6,9 +6,9 @@
 English translation texture project usage for [PPSSPP](https://www.ppsspp.org/) with few upscale, Due some **limitation** (and my own skill of editing) of game text display would be **partials only**, Only most UIs elements are translated.
 
 _**Disclaimer**_
-This project used **MLT/AI** (Gemini model 3) as based most of texts translation, be expect some misspelling and wrong context.
+This project used **MLT/AI** (Gemini model 3) as based most of text translation, be expect some misspelling and wrong context.
 
-(Only leftover most untranslated is mission name, Might also there few online mode texts untranslated which I might missed, Which planned update later if peoples are really request for it.)
+(Only leftover most untranslated is mission name, Also might there few online mode text untranslated which I might missed, Planned update later if peoples are really demands for it.)
 
 [**Download the files**]
 <img width="497" height="417" alt="image" src="https://github.com/user-attachments/assets/8fb3ae30-a444-4f08-8645-0d2310fa5a00" />
