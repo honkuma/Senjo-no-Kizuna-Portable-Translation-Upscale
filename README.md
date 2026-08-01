@@ -1,4 +1,4 @@
-# Senjo-no-Kizuna-Portable-Translation-Upscale
+# Senjou-no-Kizuna-Portable-Translation-Upscale
 **Mobile Suit Gundam: Bonds of the Battlefield Portable**(Kidō Senshi Gundam: Senjō no Kizuna Portable) 
 
 <img width="952" height="537" alt="image" src="https://github.com/user-attachments/assets/7d35ed7d-754a-4ff1-a3df-b2bef651d027" />
