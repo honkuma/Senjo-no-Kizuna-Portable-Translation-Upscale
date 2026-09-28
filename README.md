@@ -21,7 +21,7 @@ For non-compress.
 
 <img width="497" height="417" alt="image" src="https://github.com/user-attachments/assets/8fb3ae30-a444-4f08-8645-0d2310fa5a00" />
 
-For compression files version, Check on the release Tabs.
+Or wanted compression files version, Check on the release Tabs for both version.
 
 [Preview Image of the Texture files]
 <img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/e79f1bb9-6063-4ba9-be91-c35d1b1606b3" />
