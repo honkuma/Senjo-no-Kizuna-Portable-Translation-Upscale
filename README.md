@@ -17,16 +17,18 @@ This project uses **MLT/AI** (Gemini models) as based most of the text translati
 The only leftover most untranslated is the pre-mission name header opening, Also there might be a few online mode texts untranslated that I might have missed, Planned update later if people are really demanding for it.
 
 [**Download the file**]
-For non-compress.
 
-<img width="497" height="417" alt="image" src="https://github.com/user-attachments/assets/8fb3ae30-a444-4f08-8645-0d2310fa5a00" />
+Check for [Released](https://github.com/honkuma/Senjo-no-Kizuna-Portable-Translation-Upscale/releases) tab on right side of page for both non-compressed and compressed version.
 
-Or wanted compression files version, Check on the release Tabs for both version.
+[Preview Image of the Textures files (few screenshots from very first release, Media and subject might be change on current version]
 
-[Preview Image of the Texture files]
 <img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/e79f1bb9-6063-4ba9-be91-c35d1b1606b3" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28fa788b-3cbf-485d-ae85-f4c97195fff6" />
+
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/9a4f468e-c18e-4a1a-a228-da97e9b1f496" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b069783-536e-44e9-bca2-80e5ce9690fa" />
 
 <img width="1924" height="1078" alt="image" src="https://github.com/user-attachments/assets/f13d1f94-f9e7-4b0a-8abb-fb098316897b" />
 
@@ -37,3 +39,6 @@ Or wanted compression files version, Check on the release Tabs for both version.
 <img width="1908" height="1078" alt="image" src="https://github.com/user-attachments/assets/67320ae6-cb76-4dc4-9c31-763c845b8fe3" />
 
 <img width="1908" height="1078" alt="ULJS00181_00000" src="https://github.com/user-attachments/assets/caa2d1a0-0846-4c1d-a24a-02cf2bab76f7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60b4ac6b-d854-40d0-af9d-64d633b599e5" />
+
