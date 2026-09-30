@@ -20,7 +20,7 @@ The only leftover most untranslated is the pre-mission name header opening, Also
 
 Check for [Released](https://github.com/honkuma/Senjo-no-Kizuna-Portable-Translation-Upscale/releases) tab on right side of page for both non-compressed and compressed version.
 
-[Preview Image of the Textures files (few screenshots from very first release, Media and subject might be change on current version]
+[Preview Image of the Textures files, few screenshots from very first release, Media and subject might be change on current version]
 
 <img width="1914" height="1080" alt="image" src="https://github.com/user-attachments/assets/e79f1bb9-6063-4ba9-be91-c35d1b1606b3" />
 
