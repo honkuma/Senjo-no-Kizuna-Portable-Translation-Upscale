@@ -6,7 +6,7 @@
 English translation texture project usage for [PPSSPP](https://www.ppsspp.org/) with few Upscale, Due some **limitations** (and my own skill of editing) of game text display would be **partial**, only most UIs elements are translated.
 
 _**Disclaimer**_
-This project uses **MLT/AI** (Gemini models) as based most of the text translation; expect some misspellings and wrong context.
+This project uses **MLT/AI** (Gemini models) as based most of the text translation (with some manual cleanup); expect some misspellings and wrong context.
 
 | To do List | Completion |
 | --- | --- |
